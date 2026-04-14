@@ -8,7 +8,7 @@ Este projeto é um site institucional moderno e responsivo desenvolvido para uma
 
 ## 📌 Sobre o Projeto
 
-O site segue o modelo de *Single Page Application* (página única) e foi projetado para oferecer uma experiência de usuário fluida em dispositivos móveis e desktops[cite: 1, 12]. [cite_start]O tema escolhido foi **Empresa de Tecnologia**, focando em serviços de desenvolvimento de software e infraestrutura[cite: 3, 26].
+O site segue o modelo de *Single Page Application* (página única) e foi projetado para oferecer uma experiência de usuário fluida em dispositivos móveis e desktops. O tema escolhido foi **Empresa de Tecnologia**, focando em serviços de desenvolvimento de software e infraestrutura.
 
 ## 🚀 Requisitos da Atividade Implementados
 
